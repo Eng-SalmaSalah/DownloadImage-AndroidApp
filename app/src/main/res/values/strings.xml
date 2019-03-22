@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DownloadImage</string>
+    <string name="DownloadImage">Download Image</string>
+    <string name="imagelink">https://www.androidbegin.com/tutorial/flag/brazil.png</string>
+    <string name="imageLink">http://www.androidbegin.com/tutorial/flag/brazil.png</string>
+    <string name="MyLink">https://www.androidbegin.com/tutorial/flag/brazil.png</string>
+</resources>
